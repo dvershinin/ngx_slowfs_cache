@@ -47,7 +47,7 @@ slowfs_cache
 * **default**: `none`
 * **context**: `http`, `server`, `location`
 
-Sets area used for caching (previously definied using `slowfs_cache_path`).
+Sets area used for caching (previously defined using `slowfs_cache_path`).
   
 
 slowfs_cache_key
@@ -158,7 +158,7 @@ License
 =======
     Copyright (c) 2009-2012, FRiCKLE <info@frickle.com>
     Copyright (c) 2009-2012, Piotr Sikora <piotr.sikora@frickle.com>
-    Copyrithg (c) 2002-2012, Igor Sysoev <igor@sysoev.ru>
+    Copyright (c) 2002-2012, Igor Sysoev <igor@sysoev.ru>
     All rights reserved.
 
     This project was fully funded by c2hosting.com.
